@@ -1,7 +1,7 @@
 # 엘레강트 오브젝트 스터디
 
 - [책 소개](https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord=%EC%97%98%EB%A0%88%EA%B0%95%ED%8A%B8+%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8&x=0&y=0)
-- 책은 기간안에 개별구매해야 합니다.
+- 책은 기간전에 개별구매해야 합니다.
 
 ## 기간
 
