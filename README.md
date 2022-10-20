@@ -1,11 +1,12 @@
 # 엘레강트 오브젝트 스터디
 
-- [책 소개](http://www.yes24.com/Product/Goods/96193044)
+- [책 소개](https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord=%EC%97%98%EB%A0%88%EA%B0%95%ED%8A%B8+%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8&x=0&y=0)
+- 책은 기간안에 개별구매해야 합니다.
 
 ## 기간
 
 - 일정 : 2022-11-07(월) ~ 2023-01-27(금)
-- 총 12주 동안 진행
+- 총 12주 동안 진행(1주 2챕터씩 진행, 마지막 주는 1챕터)
 
 ## 인원
 
