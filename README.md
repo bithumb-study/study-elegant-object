@@ -46,3 +46,8 @@ ex) 이상호.md
 ## 기타
 
 - 참여 인원이 완료되면 진행 방식에 대해서 설명하도록 하겠습니다.
+
+## 참고
+
+- [Pull Request 작성 방법](https://github.com/bithumb-study/notification/blob/main/pull-request.md)
+- [Code Review 방법](https://github.com/bithumb-study/notification/blob/main/code-review.md)
